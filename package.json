@@ -1,0 +1,24 @@
+{
+  "name": "demo-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ts": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mijiujs/demo-ts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mijiujs/demo-ts/issues"
+  },
+  "homepage": "https://github.com/Mijiujs/demo-ts#readme",
+  "devDependencies": {
+    "@types/node": "^18.6.1",
+    "typescript": "^4.7.4"
+  }
+}
