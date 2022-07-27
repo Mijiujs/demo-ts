@@ -1,9 +1,4 @@
-const fn = require('./cjs');
-
-console.log(fn);
-
-let any1: any;
-let never1:never;
-let str1: string;
-
-str1 = any1 
+// 注释
+export const add = (a: number, b: number): number => {
+  return a + b;
+}
